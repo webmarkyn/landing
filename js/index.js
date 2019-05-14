@@ -26,3 +26,5 @@ INSTRUCTIONS:
 
 // Once you have read the above messages, you can delete all comments. 
 "use strict";
+const projectName = 'product-landing-page';
+localStorage.setItem('example_project', 'Product Landing Page');
